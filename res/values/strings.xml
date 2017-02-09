@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="settings">Settings</string>
+
+    <string name="pref_source_label_reuters">Reuters</string>
+    <string name="pref_source_label_bbc_sport">BBC Sport</string>
+    <string name="pref_source_label_bloomberg">Bloomberg</string>
+    <string name="pref_source_label_cnn">CNN</string>
+    <string name="pref_source_label_engadget">engadget</string>
+    <string name="pref_source_label_financial_times">Financial Times</string>
+
+    <string name="pref_source_label_abcNewsAu">ABC NEWS</string>
+    <string name="pref_source_label_associatedPress">Associated Press</string>
+    <string name="pref_source_label_bbcNews">BBC NEWS</string>
+    <string name="pref_source_label_dailyMail">Daily Mail</string>
+    <string name="pref_source_label_focus">Focus</string>
+    <string name="pref_source_label_nyt">The New York Times</string>
+
+    <string name="pref_source_reuters" translatable="false">reuters</string>
+    <string name="pref_source_bbc_sport" translatable="false">bbc-sport</string>
+    <string name="pref_source_bloomberg" translatable="false">bloomberg</string>
+    <string name="pref_source_cnn" translatable="false">cnn</string>
+    <string name="pref_source_engadget" translatable="false">engadget</string>
+    <string name="pref_source_financial_times" translatable="false">financial-times</string>
+
+    <string name="pref_source_abcNewsAu">abc-news-au</string>
+    <string name="pref_source_associatedPress">associated-press</string>
+    <string name="pref_source_bbcNews">bbc-news</string>
+    <string name="pref_source_dailyMail">daily-mail</string>
+    <string name="pref_source_focus">focus</string>
+    <string name="pref_source_nyt">the-new-york-times</string>
+
+
+    <string name="pref_source_key" translatable="false">source</string>
+    <string name="pref_source_default" translatable="false">reuters</string>
+
+    <string name="pref_source_label">Sources</string>
+    <string name="action_share">SHARE</string>
+</resources>

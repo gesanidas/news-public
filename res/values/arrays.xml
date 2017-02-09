@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_source_options">
+        <item>@string/pref_source_label_reuters</item>
+        <item>@string/pref_source_label_bbc_sport</item>
+        <item>@string/pref_source_label_bloomberg</item>
+        <item>@string/pref_source_label_cnn</item>
+        <item>@string/pref_source_label_engadget</item>
+        <item>@string/pref_source_label_financial_times</item>
+
+        <item>@string/pref_source_label_abcNewsAu</item>
+        <item>@string/pref_source_label_associatedPress</item>
+        <item>@string/pref_source_label_bbcNews</item>
+        <item>@string/pref_source_label_dailyMail</item>
+        <item>@string/pref_source_label_focus</item>
+        <item>@string/pref_source_label_nyt</item>
+
+    </string-array>
+
+    <string-array name="pref_source_values">
+        <item>@string/pref_source_reuters</item>
+        <item>@string/pref_source_bbc_sport</item>
+        <item>@string/pref_source_label_bloomberg</item>
+        <item>@string/pref_source_cnn</item>
+        <item>@string/pref_source_engadget</item>
+        <item>@string/pref_source_financial_times</item>
+
+        <item>@string/pref_source_abcNewsAu</item>
+        <item>@string/pref_source_associatedPress</item>
+        <item>@string/pref_source_bbcNews</item>
+        <item>@string/pref_source_dailyMail</item>
+        <item>@string/pref_source_focus</item>
+        <item>@string/pref_source_nyt</item>
+    </string-array>
+
+</resources>
